@@ -3,7 +3,7 @@ import os
 import threading
 from storage import Storage
 
-API_KEY = "470733824:AAFrQXVxrzmXplt7WqFalejAMA1-IDTit6s"
+API_KEY = "******"
 DB_FILE = "bot.db"
 BASE_DIR=os.path.dirname(os.path.realpath(__file__))
 DEBUG=True
